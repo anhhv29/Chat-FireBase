@@ -1,34 +1,33 @@
 {
   "project_info": {
-    "project_number": "175107419691",
-    "firebase_url": "https://chat-firebae-default-rtdb.asia-southeast1.firebasedatabase.app",
-    "project_id": "chat-firebae",
-    "storage_bucket": "chat-firebae.appspot.com"
+    "project_number": "256556363488",
+    "project_id": "android-devv",
+    "storage_bucket": "android-devv.appspot.com"
   },
   "client": [
     {
       "client_info": {
-        "mobilesdk_app_id": "1:175107419691:android:26d16653d90f69a607446e",
+        "mobilesdk_app_id": "1:256556363488:android:603077998f3ad93da42a85",
         "android_client_info": {
           "package_name": "anhhv.dev.chat"
         }
       },
       "oauth_client": [
         {
-          "client_id": "175107419691-h8j0riu5iadj4mjc0pr79964077m29e1.apps.googleusercontent.com",
+          "client_id": "256556363488-s03tnp1tjm9e7iogtm9ctjdr2bdj9jr9.apps.googleusercontent.com",
           "client_type": 3
         }
       ],
       "api_key": [
         {
-          "current_key": "AIzaSyDzwUSCqh0EjuhrxtlB05irpnm3l0DDScM"
+          "current_key": "AIzaSyB1BKqrd4HfqX5aalsVtuv4m9odbEKweEg"
         }
       ],
       "services": {
         "appinvite_service": {
           "other_platform_oauth_client": [
             {
-              "client_id": "175107419691-h8j0riu5iadj4mjc0pr79964077m29e1.apps.googleusercontent.com",
+              "client_id": "256556363488-s03tnp1tjm9e7iogtm9ctjdr2bdj9jr9.apps.googleusercontent.com",
               "client_type": 3
             }
           ]
